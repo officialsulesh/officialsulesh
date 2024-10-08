@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on hacking
 - 📫 How to reach me check my dashboard
-- 😄 Pronouns: ...
+- 😄 Pronouns: myself
 - ⚡ Fun fact: born 17.09.2000
 
 <!---
